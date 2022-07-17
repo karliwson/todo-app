@@ -5,14 +5,12 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@types/react-calendar": "^3.5.1",
     "@types/styled-components": "^5.1.25",
     "@types/uuid": "^8.3.4",
-    "gh-pages": "^4.0.0",
     "react": "^18.0.0",
     "react-calendar": "^3.7.0",
     "react-dom": "^18.0.0",
